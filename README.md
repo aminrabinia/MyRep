@@ -1,1 +1,1 @@
-# MyRep entials a program that downloads meta-data from playdrone and refines them for a multilayered Neural Network classifier. Parts of the NN code are taken from Andrew Ng's online class.  
+# MyRep entials a program that downloads meta-data from playdrone and refines them for a multilayered Neural Network classifier. This involves finding privacy-policy links in the meta-data pool and downloding their content. This content is later preprocessed by NLP techniques to feed the classifier. (Parts of the NN code are taken from Andrew Ng's online class.)  
